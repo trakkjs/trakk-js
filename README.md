@@ -1,23 +1,44 @@
-# Trakk.js v0.0.20
+# Trakk.js v0.1.0
 
-Automatic Documentation Generation - Real-Time Code Execution Monitoring - Onboarding - for Front-End Applications
-
-<div id="toc">
-  <ul style="list-style: none;">
-    <summary align="center">
-      <br/>
-      <h2>Onboarding<br/><br/>Automatic Documentation Generation<br/><br/>Real-Time Code Execution Monitoring<br/><br/>for Front-End Applications</h2>
-      <br/>
-      <a href="https://trakkjs.com">Visit trakkjs.com for more</a>
-    </summary>
-  </ul>
-</div>
+Automatic Documentation Generation - Real-Time Code Execution Flow - Testing / Debugging - Onboarding - for Front-End Applications
 
 <br/>
 <br/>
 
 <div align="center">
   <img src="https://trakkjs.com/api/media/trakk-function.png" width=600/>
+</div>
+
+<br/>
+<br/>
+
+<p align="center">
+  <br/>
+  <br/>
+  <strong style="font-size: 18px;"><code>yarn global add trakk-js</code></strong>
+  <br/>
+  <br/>
+  <strong style="font-size: 18px;"><code>npm install -g trakk-js</code></strong>
+</p>
+
+<br/>
+<br/>
+
+<div id="toc">
+  <ul style="list-style: none;">
+    <summary align="center">
+      <br/>
+      <h2>Automatic Documentation Generation<br/><br/>Real-Time Code Execution Flow<br/><br/>Testing / Debugging<br/><br/>Onboarding<br/><br/>for Front-End Applications</h2>
+      <br/><br/>
+      <a href="https://trakkjs.com">Visit trakkjs.com for more</a>
+      <br/><br/>
+      <a href="https://github.com/trakkjs/trakk-js/issues/new">Found a bug ?</a>
+      <br/><br/>
+      <a href="https://github.com/trakkjs/trakk-js/issues/new">Have a request ?</a>
+      <br/><br/>
+      <a href="https://trakkjs.com/contact">Want to say Hi ?</a>
+    </summary>
+  </ul>
 </div>
 
 <br/>
@@ -82,10 +103,12 @@ Click here: https://trakkjs.com/api/media/demo.mp4
 
 ## What does it do ?
 
+`Trakk.js` is a UI panel that loads onto your application `locally`. It is a development tool meant to ease all stages of development of your application: Developing, Debugging, Testing, Documenting & Onboarding
+
 Clicking on the `Trakk.js` toggle will open the UI Panel that will allow you to:
 
 ### Track Function Calls
-`Trakk.js` tracks all function calls that were performed by your application and presents them in their order of execution, one underneath the other.
+`Trakk.js` tracks all function calls that are performed by your application and presents them in their order of execution, one underneath the other.
 For each function call, `Trakk.js` will provide you with the following:
 - Time of execution
 - Order of execution
