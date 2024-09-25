@@ -1,6 +1,6 @@
-# `Trakk.js`
+# Trakk.js v0.0.20
 
-Onboarding - Automatic Documentation Generation - Real-Time Code Execution Monitoring - for Front-End Applications
+Automatic Documentation Generation - Real-Time Code Execution Monitoring - Onboarding - for Front-End Applications
 
 <div id="toc">
   <ul style="list-style: none;">
@@ -426,3 +426,5 @@ Yes. `Trakk.js` is **`framework agnostic`**. As long as your application contain
 
 ## Will it change the contents of my application ?
 No. `Trakk.js` doesn't affect or change any of your files or folders.
+
+
