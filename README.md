@@ -1,4 +1,4 @@
-# Trakk.js `v0.1.2`
+# Trakk.js `v0.1.3`
 
 Automatic Documentation Generation - Real-Time Code Execution Flow - Testing / Debugging - Onboarding - for Front-End Applications
 
@@ -294,13 +294,7 @@ The documentation will present the reader with all tracked events (in their righ
 The documenation will leave out all tracked events that you chose to ignore. See the [Ignore Unimportant Events](#ignore-unimportant-events) section.
 
 
-You have 2 options when it comes to documentation generation:
-
-1. An interactive, static & self-contained `HTML` file that will always work offline (recommended)
-2. A basic `PDF` file
-
-
-#### HTML
+The documentation comes in the form of an interactive, static & self-contained `HTML` file that will always work offline 
 
 <div align="center">
   <img src="https://trakkjs.com/api/media/html-1.png" width=600/>
@@ -350,56 +344,6 @@ You have 2 options when it comes to documentation generation:
 
 <br/>
 <br/>
-
-#### PDF
-
-<div align="center">
-  <img src="https://trakkjs.com/api/media/docs-2.png" width=600/>
-</div>
-
-<br/>
-<br/> 
-
-<br/>
-<br/>
-
-<div align="center">
-  <img src="https://trakkjs.com/api/media/docs-3.png" width=600/>
-</div>
-
-<br/>
-<br/> 
-
-<br/>
-<br/>
-
-<div align="center">
-  <img src="https://trakkjs.com/api/media/docs-4.png" width=600/>
-</div>
-
-<br/>
-<br/> 
-
-<br/>
-<br/>
-
-<div align="center">
-  <img src="https://trakkjs.com/api/media/docs-5.png" width=600/>
-</div>
-
-<br/>
-<br/> 
-
-<br/>
-<br/>
-
-<div align="center">
-  <img src="https://trakkjs.com/api/media/docs-6.png" width=600/>
-</div>
-
-<br/>
-<br/> 
-
 
 ## Why should I use it ?
 
