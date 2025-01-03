@@ -1,4 +1,4 @@
-# Trakk.js `v0.4.18`
+# Trakk.js `v0.4.19`
 
 Automatic Documentation Generation - Real-Time Code Execution Flow - Testing / Debugging - Onboarding - for Front-End Applications
 
